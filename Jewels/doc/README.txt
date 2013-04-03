@@ -1,0 +1,1 @@
+The UML diagrams can be viewed using Violet: http://alexdp.free.fr/violetumleditor/page.php?id=en:home
