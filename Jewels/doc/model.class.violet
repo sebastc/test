@@ -9,7 +9,7 @@
        <double>350.0</double>
        <double>40.0</double>
        <double>340.0</double>
-       <double>100.0</double>
+       <double>140.0</double>
       </void>
      </object>
     </void>
@@ -22,7 +22,10 @@
     <void property="methods">
      <void property="text">
       <string>+ Cell getCell(int row, int col)
-+ void move(int rowSrc, int colSrc, int rowDest, int colDest)</string>
++ void swap(int rowSrc, int colSrc, int rowDest, int colDest)
++ applyGravity()
++ applyBursts()
++ applyJewelFall()</string>
      </void>
     </void>
     <void property="name">
